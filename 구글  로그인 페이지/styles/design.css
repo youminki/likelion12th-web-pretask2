@@ -1,0 +1,18 @@
+#login {}
+#login h1 {}
+#login h1 img {}
+#login h2 {}
+#login #login_frm {}
+#login #login_frm fieldset {}
+#login #login_frm fieldset ul {}
+#login #login_frm fieldset ul li {}
+#login #login_frm fieldset ul li input[name=user_id] {}
+#login #login_frm fieldset ul li a {}
+#login #login_frm fieldset .bottom {}
+#login #login_frm fieldset .bottom .join {}
+#login #login_frm fieldset .bottom #next_btn {}
+#login footer {}
+#login footer #lang_select {}
+#login footer #lang_select option {}
+#login footer .right {}
+#login footer .right a {}
