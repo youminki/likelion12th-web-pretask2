@@ -1,8 +1,8 @@
-#login {}
-#login h1 {}
+#login {background-color: aqua; width: 600px; margin: auto;}
+#login h1, #login h2 {text-align: center;}
 #login h1 img {}
 #login h2 {}
-#login #login_frm {}
+#login #login_frm {background-color: lime;} 
 #login #login_frm fieldset {}
 #login #login_frm fieldset ul {}
 #login #login_frm fieldset ul li {}
@@ -11,7 +11,7 @@
 #login #login_frm fieldset .bottom {}
 #login #login_frm fieldset .bottom .join {}
 #login #login_frm fieldset .bottom #next_btn {}
-#login footer {}
+#login footer {background-color: yellow;}
 #login footer #lang_select {}
 #login footer #lang_select option {}
 #login footer .right {}
